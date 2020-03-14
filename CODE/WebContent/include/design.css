@@ -1,0 +1,48 @@
+@charset "ISO-8859-1";
+
+.bg-welcome{
+	
+		background-image:url("bank3.jpg");
+       
+        background-repeat: no-repeat;
+        background-size: cover;
+	
+}
+ .bg-banking {
+ 		
+        background-image:url("image/bank3.jpg");
+        background:  #ccfff5;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .panel-margin{
+    	margin-top:50px;
+    }
+
+    .panel-transparent {
+        background: none;
+        mar
+    }
+
+    .panel-transparent .panel-heading{
+       opacity: none;
+    }
+
+    .panel-transparent .panel-body{
+        opacity: none;
+    }
+    
+    
+    .footer{
+			 position: fixed;
+			  left: 0;
+			  bottom: 0;
+			  width: 100%;
+    }
+    
+     .header{
+			 position: top;
+			  left: 0;
+			  bottom: 0;
+			  width: 100%;
+    }
